@@ -276,7 +276,7 @@ In een ontwikkelomgeving is het meestal ‘not done’ om in de master branche t
 Soms wordt een extra branche ook gebruikt om een bepaalde versie van je code te stokkeren. Je gaat die branche dan bekijken als een ‘read-only’. Dit is wel handig als een bepaalde versie in productie gaat bij een bepaalde klant, zo weet je bij problemen dat het om die versie gaat. Soms heb je dat probleem in een latere versie immers al opgelost. Je zou dan kunnen kiezen om enkel de commit, die dit heeft opgelost, hier op toepassen.  
 In het project in de cursus Data analyse ga je telkens de versie van je project, die je naar Epos upload, op dat moment in een aparte branche onderbrengen. In die branche breng je dan geen veranderingen meer aan.  
 Bij het aanmaken van zo een branche, ga je verwijzen naar alles uit de repo van de start branche. Dus op dat moment lijkt het alsof je 2 identieke branches hebt. Weet dat het een pointer is die je zet.  
-Je maakt nu een branche om in te werken: de brande 'develop'.   
+Je maakt nu een branche om in te werken: de branche 'develop'.   
 Je gaat in die nieuwe branche aan de slag: je maakt nieuwe dingen, je test deze uitvoerig en als je groen licht krijgt, ga je deze branche mergen met de startbranche. Ook hier kunnen zich dan merge problemen voordoen. Die los je dan net zo op als we eerder in de cursus gedaan hebben.  
 Je werkt weer vanuit Git Shell:  
 Je maakt nu een nieuwe branche ‘develop’ met git branch develop.  
