@@ -330,7 +330,7 @@ De tekst in de issues geef je ook in met de MarkDown opmaak die je net geleerd h
 # Toepassen in project Data Analyse
 
 Per groep wordt er een private repo aangemaakt, waarin gewerkt wordt. De docenten hebben toegang tot elke repo, maar jij enkel tot de repo van jouw groep.
-De tabel met werkwijze project (wie wat waar) maken jullie in een .md bestand. Hirevoor moet je zelf opzoeken hoe je een tabel maakt in MarkDown. De issues kan je gebruiken voor de planning en onderlinge afspraken. De visio bestanden komen ook in deze repo. Bij deze laatste is in GitHub geen versiebeheer mogelijk.  
+De tabel met werkwijze project (wie wat waar) maken jullie in een .md bestand. Hiervoor moet je zelf opzoeken hoe je een tabel maakt in MarkDown. De issues kan je gebruiken voor de planning en onderlinge afspraken. De visio bestanden komen ook in deze repo. Bij deze laatste is in GitHub geen versiebeheer mogelijk.  
 De gebeurtenissenlijs en de begeleiding van de diagrammen zet je ook in .md bestanden. Weet dat je van de visio bestanden ook .jpg bestanden kan maken, als je ze wil opnemen in je .md document.
 
 # Bibliografie
